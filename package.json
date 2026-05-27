@@ -1,0 +1,16 @@
+{
+  "name": "planforge-website",
+  "version": "1.0.0",
+  "description": "A polished planning website with a small JSON backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "planning",
+    "website",
+    "backend"
+  ],
+  "author": "",
+  "license": "MIT"
+}
